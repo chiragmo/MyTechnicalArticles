@@ -1,5 +1,5 @@
 Author: Chirag M. Onkarappa
-All work is solemely part of my effort and is not reproduced from other blogs. If any sections of the articles is inspired by other blogs, such copywright issues arising can contact me @chiragmonkarappa@gmail.com
+All work is solemely part of my effort and is not reproduced from other blogs. If any sections of the articles is nearly same as other blogs, such copywright/ethical issues arising can contact me @chiragmonkarappa@gmail.com
 **********************************************************************************************************************************************************************************************************************************************************************
 What this folder contains?
 Code representations for Technical Articles.

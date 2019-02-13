@@ -2,9 +2,12 @@ package InterThreadCommunication.Pipes;
 import java.io.PipedReader;
 import java.io.PipedWriter;
 import java.io.IOException;
-
-public class Main {
-	public static void main(String[] args) {
+		/**
+		* Producer: Class.Producer and Consumer: Class.Consumer
+		* Class.PipedWriter and Class.PipedReader is the two pipe ends
+		*/
+	public class Main {
+		public static void main(String[] args) {
 		 PipedWriter writer = null;
 		 PipedReader reader = null;
 		try{
